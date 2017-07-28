@@ -2,7 +2,7 @@
   "language": "cpp",
   "cache": {
     "directories": [
-      "$HOME/.local"
+      "$HOME/.local" 
     ]
   },
    "script": [
