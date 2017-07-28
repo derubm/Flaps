@@ -6,6 +6,7 @@
     ]
   },
    "script": [
+   cd src
     "cmake -f makefile.unix",
    ]
 }
