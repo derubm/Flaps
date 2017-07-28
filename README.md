@@ -16,8 +16,3 @@ Block Time: 60 Seconds
 Difficulty Retarget Time: 1 minutes (with KGW)
 
 Premine: None
-
-
-
-# flappysp1
-# flappysp1
