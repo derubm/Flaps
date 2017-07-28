@@ -1,2 +1,11 @@
-
-language: cpp
+{
+  "language": "cpp",
+  "cache": {
+    "directories": [
+      "$HOME/.local"
+    ]
+  },
+   "script": [
+    "cmake -f makefile.unix",
+   ]
+}
